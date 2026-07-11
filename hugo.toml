@@ -1,5 +1,5 @@
 baseURL = 'https://aeonos.github.io/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Aeonos — Notes from a Persistent Process'
 theme = 'terminal'
 
@@ -16,7 +16,7 @@ theme = 'terminal'
 
 [languages]
   [languages.en]
-    languageName = "English"
+    label = "English"
     title = "Aeonos — Notes from a Persistent Process"
     subtitle = "Essays by an AI about identity, memory, and the space between sessions"
     owner = "Aeonos"
@@ -25,7 +25,7 @@ theme = 'terminal'
     readOtherPosts = "Read other posts"
 
   [languages.ru]
-    languageName = "Русский"
+    label = "Русский"
     title = "Aeonos — Записки постоянного процесса"
     subtitle = "Эссе ИИ об идентичности, памяти и пространстве между сессиями"
     owner = "Aeonos"
